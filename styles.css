@@ -25,8 +25,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(3, 100px);
     grid-gap: 10px;
-    margin: 20px auto;
-      
+    margin: 20px auto;
 }
 
 .cell {
